@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jose Pedraza",
+      "username": "josepedrazas",
+      "email": "josepe.pedraza@gmail.com",
+      "image": "https://api.adorable.io/avatars/285/abott@adorable.png"
+    },  {
+      "id": 2,
+      "name": "Juan Jose Pedraza",
+      "username": "josepedrazas",
+      "email": "josepe.pedraza@gmail.com",
+      "image": "https://api.adorable.io/avatars/285/abott@adorable.png"
+    },  {
+      "id": 3,
+      "name": "Tania Pedraza",
+      "username": "josepedrazas",
+      "email": "josepe.pedraza@gmail.com",
+      "image": "https://api.adorable.io/avatars/285/abott@adorable.png"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "userId": 1
+    }, {
+      "id": 2,
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "userId": 1
+    }, {
+      "id": 3,
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "userId": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Contrary to popular belief, Lorem Ipsum is not simply random text",
+      "postId": 1
+    }, {
+      "id": 2,
+      "body": "Contrary to popular belief, Lorem Ipsum is not simply random text",
+      "postId": 1
+    }
+  ]
+}
